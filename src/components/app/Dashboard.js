@@ -52,7 +52,7 @@ export const Dashboard = ({ user }) => {
       {/* Welcome Header */}
       <div className="mb-8">
         <h1 className="text-3xl font-bold text-foreground mb-2">Welcome back, {user.name}!</h1>
-        <p className="text-muted-foreground">Here's an overview of your soul-winning impact and recent activities.</p>
+        <p className="text-muted-foreground">Here is an overview of your soul-winning impact and recent activities.</p>
       </div>
 
       {/* Key Metrics */}

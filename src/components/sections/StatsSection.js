@@ -90,7 +90,7 @@ export const StatsSection = () => {
           </h2>
           <p className="text-xl text-muted-foreground leading-relaxed">
             Key performance indicators and strategic benefits that will revolutionize 
-            RCCG's global evangelism and discipleship effectiveness.
+            RCCG is global evangelism and discipleship effectiveness.
           </p>
         </div>
 
