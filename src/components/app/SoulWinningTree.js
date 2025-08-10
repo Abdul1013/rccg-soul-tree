@@ -15,7 +15,7 @@ import { TreePine, Users, ChevronDown, ChevronRight, User, Calendar, MapPin, Pho
 // }
 
 export const SoulWinningTree = () => {
-  const [expandedNodes, setExpandedNodes] = useState<Set<string>>(new Set(['root']));
+  const [expandedNodes, setExpandedNodes] = useState(new Set(['root']));
   
   // Sample tree data
   const treeData = {
